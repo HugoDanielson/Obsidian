@@ -1,5 +1,5 @@
 
-Channel 4B [Operative Margin 22%](Manufacturing Efficiency)
+Channel 4B [Operative Margin 22%]([[Manufacturing]] Efficiency)
 
 [Customers](Industry)
 
