@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "ccac5f71338dbb57",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ce5223758c7ee4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quality.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e29feadecaf92790",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd715abd817a0357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd48fbf9ce1a1344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbc254bffb69da8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d5e8d83e368d537",
+    "type": "split",
+    "children": [
+      {
+        "id": "626a25ccabdcebb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d2cf89b0c2f70bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "00ce5223758c7ee4",
+  "lastOpenFiles": [
+    "Quality.md",
+    "Manufacturing/Manufacturing.md",
+    "Manufacturing/Quality/Tolerance.md",
+    "Business/Operative Margin.md",
+    "Manufacturing/Channels/Channel 4B.md",
+    "Channels.md",
+    "Business/Customer.md",
+    "Business/Industry.md",
+    "Digitalisation/MPM.md",
+    "Digitalisation/Smart Maintenace.md"
+  ]
+}
