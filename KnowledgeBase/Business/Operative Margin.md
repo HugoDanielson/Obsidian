@@ -1,6 +1,6 @@
 Things That Affect OP
 
-[Scrap Rate](Quality) through loss off [[quality]], and improper [parameter adjustment](MPM)
+[Scrap Rate](Quality.md) through loss off [[Quality]], and improper [parameter adjustment](MPM)
 
 [Human Resource](Human Labour)
 

@@ -1,5 +1,9 @@
 [
   "nldates-obsidian",
   "url-into-selection",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "find-unlinked-files",
+  "obsidian-auto-link-title",
+  "obsidian-link-indexer",
+  "review-obsidian"
 ]

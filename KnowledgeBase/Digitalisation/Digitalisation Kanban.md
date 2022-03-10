@@ -4,10 +4,10 @@ kanban-plugin: basic
 
 ---
 
-## MES
+## [[MES]]
 
 - [ ] Current Set up of new system ^fla3ve
-- [ ] FInalise Script for processing [[tolerance]] data
+- [ ] FInalise [[Script]] for processing [[tolerance]] data
 - [ ] [[Complete SPC 62 Tests]]
 
 

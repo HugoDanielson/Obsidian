@@ -1,9 +1,9 @@
-[Smart Maintenance](Connectivity) Allows for Data driven Maintenance
+[Smart Maintenance](Connectivity) Allows for Data driven [Maintenance](Maintenance)
 
 
 Requirements: 
-	Connectivity 
+	[[Connectivity]] 
 		[Brown Field Connector](BFC)
-		[API Pro](API Pro)
+		[API-PRO]([[API PRO]])
 		Connecting to [Art3mis](Art3mis)
 		

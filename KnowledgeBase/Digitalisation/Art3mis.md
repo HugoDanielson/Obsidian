@@ -1,13 +1,13 @@
-[Art3mis ](MES)
+[Art3mis ](MES.md)
 
-Art3mis is an MES system developed as a replacement for the AVIO MES.
+Art3mis is an [[MES]] system developed as a replacement for the AVIO [[MES]].
 
 Is now being implemented in Automotive and other areas.
 
 
-Central Team Responsible : Raffaele Montagioni
+Central Team Responsible : [[Raffaele Montagioni]]
 
 Local Responsible: 
-- [[Shared Operations]]: Ivano Maurino
+- [[Shared Operations]]: [[Ivano Maurino]]
 - Channels : TBD
-- [[Quality]]: Marco Bonivardi
+- [[Quality]]: [[Marco Bonivardi]]

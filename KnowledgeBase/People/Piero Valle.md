@@ -1,3 +1,6 @@
-Working with Marco Bonivardi regarding Quality
+Quality Expert
 
-Working with Alessandro Capano for Work Instructions
+
+Working with [[Marco Bonivardi]] regarding [[Quality]]
+
+Working with [[Alessandro Capano]] for Work Instructions

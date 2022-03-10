@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fda7e8f24ce41164",
+        "id": "9e169160f48bf51c",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -70,7 +70,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -81,7 +81,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -103,17 +103,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fda7e8f24ce41164",
+  "active": "9e169160f48bf51c",
   "lastOpenFiles": [
-    "Automation.md",
-    "People/Fabio Busolini.md",
-    "People/Piero Valle.md",
-    "People/Alessandro Capano.md",
-    "People/Roberto Napione.md",
-    "People/Roberta Granato.md",
-    "People/Paolo Mameli.md",
-    "People/Roberto Prot.md",
-    "Script.md",
-    "Quality.md"
+    "Day Planners/2022-03-09.md",
+    "Maintenance/API PRO.md",
+    "Machine.md",
+    "Manufacturing/Manufacturing.md",
+    "Digitalisation/Smart Maintenace.md",
+    "[API PRO.md",
+    "[API Pro.md",
+    "[API.md",
+    "Day Planners/2022-03-08.md",
+    "Day Planners/2022-03-07.md"
   ]
 }
